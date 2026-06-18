@@ -1,1 +1,1 @@
-# piramide-logica
+# edificio-logico
